@@ -1,0 +1,13 @@
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\bin\Release\Hiragana Training.exe.config
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\bin\Release\Hiragana Training.exe.manifest
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\bin\Release\Hiragana Training.application
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\bin\Release\Hiragana Training.exe
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\bin\Release\Hiragana Training.pdb
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Release\Hiragana Training.csprojAssemblyReference.cache
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Release\Hiragana_Training.KanaTraining.resources
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Release\Hiragana_Training.Properties.Resources.resources
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Release\Hiragana Training.csproj.GenerateResource.cache
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Release\Hiragana Training.exe.manifest
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Release\Hiragana Training.application
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Release\Hiragana Training.exe
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Release\Hiragana Training.pdb

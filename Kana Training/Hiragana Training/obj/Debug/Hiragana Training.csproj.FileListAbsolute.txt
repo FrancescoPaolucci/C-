@@ -1,0 +1,18 @@
+C:\Users\Franc\OneDrive\Desktop\UNI\Programmazione\Hiragana Training\Hiragana Training\bin\Debug\Hiragana Training.exe.config
+C:\Users\Franc\OneDrive\Desktop\UNI\Programmazione\Hiragana Training\Hiragana Training\bin\Debug\Hiragana Training.exe
+C:\Users\Franc\OneDrive\Desktop\UNI\Programmazione\Hiragana Training\Hiragana Training\bin\Debug\Hiragana Training.pdb
+C:\Users\Franc\OneDrive\Desktop\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Debug\Hiragana Training.csprojAssemblyReference.cache
+C:\Users\Franc\OneDrive\Desktop\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Debug\Hiragana_Training.Properties.Resources.resources
+C:\Users\Franc\OneDrive\Desktop\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Debug\Hiragana Training.csproj.GenerateResource.cache
+C:\Users\Franc\OneDrive\Desktop\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Debug\Hiragana Training.exe
+C:\Users\Franc\OneDrive\Desktop\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Debug\Hiragana Training.pdb
+C:\Users\Franc\OneDrive\Desktop\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Debug\Hiragana_Training.KanaTraining.resources
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\bin\Debug\Hiragana Training.exe.config
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\bin\Debug\Hiragana Training.exe
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\bin\Debug\Hiragana Training.pdb
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Debug\Hiragana Training.csprojAssemblyReference.cache
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Debug\Hiragana_Training.KanaTraining.resources
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Debug\Hiragana_Training.Properties.Resources.resources
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Debug\Hiragana Training.csproj.GenerateResource.cache
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Debug\Hiragana Training.exe
+D:\UNI\Programmazione\Hiragana Training\Hiragana Training\obj\Debug\Hiragana Training.pdb
