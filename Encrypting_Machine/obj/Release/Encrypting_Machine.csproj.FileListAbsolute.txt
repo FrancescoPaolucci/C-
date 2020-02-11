@@ -1,0 +1,13 @@
+D:\UNI\Programmazione\Encrypting_Machine\bin\Release\Encrypting_Machine.exe.config
+D:\UNI\Programmazione\Encrypting_Machine\bin\Release\Encrypting_Machine.exe.manifest
+D:\UNI\Programmazione\Encrypting_Machine\bin\Release\Encrypting_Machine.application
+D:\UNI\Programmazione\Encrypting_Machine\bin\Release\Encrypting_Machine.exe
+D:\UNI\Programmazione\Encrypting_Machine\bin\Release\Encrypting_Machine.pdb
+D:\UNI\Programmazione\Encrypting_Machine\obj\Release\Encrypting_Machine.csprojAssemblyReference.cache
+D:\UNI\Programmazione\Encrypting_Machine\obj\Release\Encrypting_Machine.Properties.Resources.resources
+D:\UNI\Programmazione\Encrypting_Machine\obj\Release\Encrypting_Machine.csproj.GenerateResource.cache
+D:\UNI\Programmazione\Encrypting_Machine\obj\Release\Encrypting_Machine.exe.manifest
+D:\UNI\Programmazione\Encrypting_Machine\obj\Release\Encrypting_Machine.application
+D:\UNI\Programmazione\Encrypting_Machine\obj\Release\Encrypting_Machine.exe
+D:\UNI\Programmazione\Encrypting_Machine\obj\Release\Encrypting_Machine.pdb
+D:\UNI\Programmazione\Encrypting_Machine\obj\Release\Encrypting_Machine.DecryptoKING.resources
